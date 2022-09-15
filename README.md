@@ -19,5 +19,9 @@ Material destinado ao curso de Dart oferecido pelo canal Código Abstrato.
 * [Aula 03] [https://youtu.be/XzcfX64Rewo]
 
 
+## Aula 04: Variáveis e tipos de Dados em Dart
+* [Aula 04] [https://youtu.be/3GXSfMms4pU]
+
+
 
 * [Dart - Documentação oficial](https://dart.dev/guides)
